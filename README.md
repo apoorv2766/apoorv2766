@@ -61,9 +61,11 @@ I build maintainable apps users love and ship them quickly to production.
 ---
 
 ⚡ Fun fact
-I build side‑projects in my spare time and experiment with new JS frameworks. When I’m offline you’ll find me hiking or taking photos.
+I build side‑projects in my spare time and experiment with new JS frameworks.
+When I’m offline you’ll find me hiking or taking photos.
 
 ---
 
-If you'd like this README shorter, more visual (badges, GIFs), or tailored for recruiters vs engineering audiences — tell me which style and I’ll adjust it.
+If you'd like this README shorter, more visual (badges, GIFs), or tailored for
+recruiters vs engineering audiences — tell me which style and I’ll adjust it.
 ```
