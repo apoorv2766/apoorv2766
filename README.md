@@ -15,7 +15,9 @@ Building fast, delightful web experiences and real‑time applications — from 
 ---
 
 🚀 What I do
-I build user‑focused web apps with modern JavaScript stacks and real‑time systems (Socket.io / WebSockets). I ship polished frontends, reliable backends, and deploy production apps on Vercel. I enjoy turning ideas into clean, maintainable code with strong product thinking.
+I build user‑focused web apps with modern JavaScript stacks and real‑time systems (Socket.io / WebSockets).
+I ship polished frontends, reliable backends, and deploy production apps on Vercel. I enjoy turning ideas
+into clean, maintainable code with strong product thinking.
 
 ---
 
@@ -32,7 +34,8 @@ I build user‑focused web apps with modern JavaScript stacks and real‑time sy
 ⭐ Featured projects
 1. **Socket.io‑Chat (Full stack)**  
    - Repo: https://github.com/apoorv2766/Socket.io-Chat  
-   - Real‑time chat application with separate frontend & backend — demonstrates WebSocket handling, rooms, and live UI updates.
+   - Real‑time chat application with separate frontend & backend — demonstrates WebSocket handling,
+     rooms, and live UI updates.
 
 2. **store-home**  
    - Repo: https://github.com/apoorv2766/store-home  
@@ -45,7 +48,8 @@ I build user‑focused web apps with modern JavaScript stacks and real‑time sy
 ---
 
 📌 Elevator pitch
-Full‑Stack Web Developer focused on real‑time web experiences and polished frontends. I build maintainable apps users love and ship them quickly to production.
+Full‑Stack Web Developer focused on real‑time web experiences and polished frontends.
+I build maintainable apps users love and ship them quickly to production.
 
 ---
 
