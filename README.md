@@ -1,6 +1,6 @@
 ```markdown
 # 👋 Hi — I’m Apoorv
-Full‑Stack Web Developer | Real‑time & Frontend Focus  
+Full‑Stack AI Engineer | Real‑time & Frontend Focus  
 Building fast, delightful web experiences and real‑time applications — from prototype to production.
 
 ---
@@ -8,7 +8,7 @@ Building fast, delightful web experiences and real‑time applications — from 
 📫 Contact
 - Phone: 857-453-7246  
 - Email: apoorv2766@outlook.com  
-- Portfolio: https://portfolio-apoorv.vercel.app/  
+- Portfolio: https://vite-portfolio-neon.vercel.app 
 - LinkedIn: https://www.linkedin.com/in/apoorv27  
 - GitHub: https://github.com/apoorv2766
 
@@ -42,7 +42,7 @@ into clean, maintainable code with strong product thinking.
    - Storefront-style project showcasing modern frontend work and state management.
 
 3. **Personal portfolio**  
-   - Live: https://portfolio-apoorv.vercel.app/  
+   - Live: https://vite-portfolio-neon.vercel.app
    - Deployed showcase of projects, hosted on Vercel.
 
 ---
